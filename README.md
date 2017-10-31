@@ -15,7 +15,7 @@
 | Basic Branch | | 5 |
 | Grok Git | | 5 |
 | Master Markdown | | 5 |
-| Learn LaTeX | | 5 |
+| Learn LaTeX | | 5 |    
 | Total Score | | 20 |
 | Slip days used | | |
 
